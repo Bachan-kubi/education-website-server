@@ -3,14 +3,21 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
     "title": "Learn JavaScript",
-    "image_url": "https://media.istockphoto.com/photos/python-inscription-above-open-book-light-coming-from-open-book-with-picture-id1279621965?s=612x612",
-    "details": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners.Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python."
+    "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2bb6b",
     "category_id": "02",
     "title": "Lear Python in easy way",
-    "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    "image_url": "https://media.istockphoto.com/photos/python-inscription-above-open-book-light-coming-from-open-book-with-picture-id1279621965?s=612x612",
+    "details": "Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2bc6c",
+    "category_id": "03",
+    "title": "Explore Web Development",
+    "image_url": "https://media.istockphoto.com/photos/website-design-word-abstract-in-wood-type-picture-id1327278358?s=612x612",
+    "details": "Web development is the building and maintenance of websites it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or ‘devs’, do this by using a variety of coding languages. The languages they use depends on the types of tasks they are preforming and the platforms on which they are working.Web development skills are in high demand worldwide and well paid too making development a great career option. It is one of the easiest accessible higher paid fields as you do not need a traditional university degree to become qualified. The field of web development is generally broken down into front-end (the user-facing side) and back-end (the server side). Let’s delve into the details."
   }
 ]
