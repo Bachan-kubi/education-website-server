@@ -8,7 +8,7 @@ const categories = require('./data/categories.json');
 const courses = require('./data/courses.json');
 
 app.get('/', (req, res)=>{
-    res.send(`Hi, this is, 2nd, 3rd, 4!5 6 Let Live`)
+    res.send(`Let Live`)
 });
 
 app.get('/categories', (req, res)=>{
